@@ -1,0 +1,69 @@
+<!DOCTYPE questions>
+
+<questions>
+  <question id = "q1">
+    <type>text</type>
+    <title>peor tipo de pizza</title>
+    <answer>pizza de piña</answer>
+  </question>
+  <question id = "q2">
+    <type>number</type>
+    <title>edad de Bernardo</title>
+    <answer>60</answer>
+  </question>
+  <question id = "q3">
+    <type>radio</type>
+    <title>peor helado</title>
+    <answer>vainita</answer>
+  </question>
+  <question id = "q4">
+    <type>checkbox</type>
+    <title>colores de mi españita</title>
+    <option>rojo</option>
+    <option>rosa</option>
+    <option>amarillo</option>
+    <option>naranja</option>
+    <option>morado</option>
+    <option>blastoise</option>
+    <answer>rojo</answer>
+    <answer>amarillo</answer>
+  </question>
+  <question id="q5">
+    <type>radio</type>
+    <title>que pokemon se elige</title>
+    <option>charmander</option>
+    <option>squirtle</option>
+    <option>bulbasur</option>
+    <option>agumón</option>
+    <answer>squirtle</answer>
+  </question>
+  <question id = "q6">
+    <type>radio</radio>
+    <title>dara gemma chance?</title>
+  </question>
+  <question id = "q7">
+    <type>select</type>
+    <title>en que no estoy pensando?</title>
+    <option>mongolo musculado</option>
+    <option>Nuestro todopoderoso salvador Ben Shapiro</option>
+    <option>NO oprimir minorías</option>
+    <option>javascript</option>
+    <option>Lo feliz que soy</option>
+  </question>
+  <question id = "q8">
+    <type>radio</type>
+    <title>When Bappo lived in the 50's...</title>
+    <answer>Bappo hate blacko</answer>
+  </question>
+  <question id = "q9">
+    <type>radio</type>
+    <title>Cual es correcta?</title>
+    <answer>beep boop lettuce</answer>
+  </question>
+  <question id = "q10">
+    <type>radio</type>
+    <title>que nota das?</title>
+    <answer>10</answer>
+  </question>
+
+</questions>
